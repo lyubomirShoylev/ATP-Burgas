@@ -1,0 +1,14 @@
+﻿@model DataAccess.Products
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Prouct Details</h2>
+
+<div class="row">
+    <div class="col-md-4">Product Name</div>
+    <div class="col-md-8">@Html.DisplayFor(x => x.ProductName, null, new { htmlAttributes = new { @class = "form-control" } })</div>
+
+    <div class="col-md-4">Unit Price</div>
+    <div class="col-md-8">@Html.DisplayFor(x => x.UnitPrice, null, new { htmlAttributes = new { @class = "form-control" } })</div>
+</div>

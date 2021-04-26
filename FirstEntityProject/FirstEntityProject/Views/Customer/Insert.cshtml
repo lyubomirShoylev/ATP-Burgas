@@ -1,0 +1,10 @@
+﻿@model DataAccess.Customers
+@{
+    ViewBag.Title = "Insert";
+}
+
+<h2>Insert Customer</h2>
+@using (Html.BeginForm("Inserted", "Customer", FormMethod.Post))
+{
+    @Html.EditorFor(x => Model);
+}

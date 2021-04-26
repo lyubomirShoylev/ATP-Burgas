@@ -1,0 +1,14 @@
+﻿@model DataAccess.Customers
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit Customer</h2>
+@using (Html.BeginForm("Edited", "Customer", FormMethod.Post))
+{
+    @Html.HiddenFor( x=> x.CustomerID)
+    @Html.EditorFor(x => Model);
+
+
+    <input type="submit" />
+}

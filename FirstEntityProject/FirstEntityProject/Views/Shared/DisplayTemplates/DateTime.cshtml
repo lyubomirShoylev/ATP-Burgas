@@ -1,0 +1,9 @@
+﻿@model DateTime
+@{
+    System.Threading.Thread.Sleep(10);
+    Random rnd = new Random();
+    int red = rnd.Next(0, 255);
+    int green = rnd.Next(0, 255);
+    int blue = rnd.Next(0, 255);
+}
+<div style="color:rgb(@red,@green,@blue)">@Model</div>

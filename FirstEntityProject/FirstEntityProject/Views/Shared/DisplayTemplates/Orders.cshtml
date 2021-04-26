@@ -1,0 +1,27 @@
+﻿@model DataAccess.Orders
+
+<table class="table table-striped table-bordered table-hover table-responsive">
+
+    <tbody>
+        <tr>
+            <td>Ship Name</td>
+            <td>@Html.DisplayFor(x => x.ShipName)</td>
+        </tr>
+        <tr>
+            <td>Order Date</td>
+            <td>@Html.DisplayFor(x => x.OrderDate)</td>
+        </tr>
+        <tr>
+            <td>Reqired Date</td>
+            <td>@Html.DisplayFor(x => x.RequiredDate)</td>
+        </tr>
+        <tr>
+            <td>Ship Country</td>
+            <td>@Html.DisplayFor(x => x.ShipCountry)</td>
+        </tr>
+        <tr>
+            <td>Ship Adress</td>
+            <td>@Html.DisplayFor(x => x.ShipAddress)</td>
+        </tr>
+    </tbody>
+</table>

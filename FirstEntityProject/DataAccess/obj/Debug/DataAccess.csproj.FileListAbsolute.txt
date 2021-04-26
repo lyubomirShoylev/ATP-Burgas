@@ -1,0 +1,20 @@
+c:\users\fiber\documents\visual studio 2013\Projects\FirstEntityProject\DataAccess\bin\Debug\DataAccess.dll
+c:\users\fiber\documents\visual studio 2013\Projects\FirstEntityProject\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\fiber\documents\visual studio 2013\Projects\FirstEntityProject\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\users\fiber\documents\visual studio 2013\Projects\FirstEntityProject\DataAccess\obj\Debug\DataAccess.dll
+c:\users\fiber\documents\visual studio 2013\Projects\FirstEntityProject\DataAccess\obj\Debug\DataAccess.pdb
+c:\users\fiber\documents\visual studio 2013\Projects\FirstEntityProject\DataAccess\bin\Debug\DataAccess.dll.config
+c:\users\fiber\documents\visual studio 2013\Projects\FirstEntityProject\DataAccess\bin\Debug\EntityFramework.dll
+c:\users\fiber\documents\visual studio 2013\Projects\FirstEntityProject\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\fiber\documents\visual studio 2013\Projects\FirstEntityProject\DataAccess\bin\Debug\EntityFramework.xml
+c:\users\fiber\documents\visual studio 2013\Projects\FirstEntityProject\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fiber\Desktop\FirstEntityProject\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\fiber\Desktop\FirstEntityProject\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\fiber\Desktop\FirstEntityProject\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\fiber\Desktop\FirstEntityProject\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\fiber\Desktop\FirstEntityProject\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fiber\Desktop\FirstEntityProject\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\fiber\Desktop\FirstEntityProject\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fiber\Desktop\FirstEntityProject\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\fiber\Desktop\FirstEntityProject\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\fiber\Desktop\FirstEntityProject\DataAccess\obj\Debug\DataAccess.pdb

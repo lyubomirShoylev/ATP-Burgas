@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstEntityProject", "FirstEntityProject\FirstEntityProject.csproj", "{3270DED9-1D39-47D7-B7E8-24599FB5ED2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{898105B2-07EF-4D98-B732-4BDC2C4BCF0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3270DED9-1D39-47D7-B7E8-24599FB5ED2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3270DED9-1D39-47D7-B7E8-24599FB5ED2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3270DED9-1D39-47D7-B7E8-24599FB5ED2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3270DED9-1D39-47D7-B7E8-24599FB5ED2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898105B2-07EF-4D98-B732-4BDC2C4BCF0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898105B2-07EF-4D98-B732-4BDC2C4BCF0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898105B2-07EF-4D98-B732-4BDC2C4BCF0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898105B2-07EF-4D98-B732-4BDC2C4BCF0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

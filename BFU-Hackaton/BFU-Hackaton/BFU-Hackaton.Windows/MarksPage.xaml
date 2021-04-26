@@ -1,0 +1,60 @@
+﻿<Page
+    x:Class="BFU_Hackaton.MarksPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BFU_Hackaton"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Background>
+        <ImageBrush Stretch="Fill"/>
+    </Page.Background>
+
+    <GridView Name="SubjectName" Grid.Row="1" Margin="10" Loaded="SubjectName_Loaded">
+        <GridView.Background>
+            <ImageBrush Stretch="Uniform" ImageSource="Assets/BFU-logo.png" Opacity="0.7"/>
+        </GridView.Background>
+        <GridView.ItemTemplate>
+            <DataTemplate>
+                <StackPanel Orientation="Horizontal" Margin="10">
+                    <TextBlock FontSize="24" TextWrapping="WrapWholeWords">
+                        <Run Text="Number: " />
+                        <Run Text="{Binding number}" />
+                    </TextBlock>
+                    <TextBlock FontSize="24" TextWrapping="WrapWholeWords">
+                        <Run Text=" Year: " />
+                        <Run Text="{Binding year}" />
+                    </TextBlock>
+                    <TextBlock FontSize="24" TextWrapping="WrapWholeWords">
+                        <Run Text=" Semester: " />
+                        <Run Text="{Binding semestar}" />
+                    </TextBlock>
+                    <TextBlock FontSize="24" TextWrapping="WrapWholeWords">
+                        <Run Text=" Subject: " />
+                        <Run Text="{Binding subject}" />
+                    </TextBlock>
+                    <TextBlock FontSize="24" TextWrapping="WrapWholeWords">
+                        <Run Text=" Mark: " />
+                        <Run Text="{Binding mark}" />
+                    </TextBlock>
+                    <TextBlock FontSize="24" TextWrapping="WrapWholeWords">
+                        <Run Text=" Session: " />
+                        <Run Text="{Binding session}" />
+                    </TextBlock>
+                    <TextBlock FontSize="24" TextWrapping="WrapWholeWords">
+                        <Run Text=" Day: " />
+                        <Run Text="{Binding day}" />
+                    </TextBlock>
+                    <TextBlock FontSize="24" TextWrapping="WrapWholeWords">
+                        <Run Text=" Credits: " />
+                        <Run Text="{Binding credits}" />
+                    </TextBlock>
+                    <TextBlock FontSize="24" TextWrapping="WrapWholeWords">
+                        <Run Text=" Notes: " />
+                        <Run Text="{Binding note}" />
+                    </TextBlock>
+                </StackPanel>
+            </DataTemplate>
+        </GridView.ItemTemplate>
+    </GridView>
+</Page>

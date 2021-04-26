@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="BFU_Hackaton.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BFU_Hackaton"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <StackPanel Margin="10" HorizontalAlignment="Stretch">
+        <StackPanel.Background>
+            <ImageBrush Stretch="Uniform" ImageSource="Assets/BFU-logo.png"/>
+        </StackPanel.Background>
+        <TextBlock Name="Heading" Margin="50,20,50,20" Text="Факултетен номер на студента" FontSize="45" TextAlignment="Center" HorizontalAlignment="Stretch" VerticalAlignment="Center"/>
+        <TextBox Name="Fan" Margin="50,20,50,20" FontSize="24" TextWrapping="Wrap" HorizontalAlignment="Center" MinHeight="30" MinWidth="400" />
+        <Button Name="MarksButton" Content="Marks" FontSize="45" HorizontalAlignment="Stretch" Margin="50,20,50,20" VerticalAlignment="Stretch" MinHeight="94" MaxWidth="600" Click="MarksButton_Click" Background="Black"/>
+        <Button Name="ExamsButton" Content="Exams" FontSize="45" HorizontalAlignment="Stretch" Margin="50,20,50,20" VerticalAlignment="Stretch" MinHeight="94" MaxWidth="600" Click="ExamsButton_Click" Background="Black"/>
+    </StackPanel>
+</Page>

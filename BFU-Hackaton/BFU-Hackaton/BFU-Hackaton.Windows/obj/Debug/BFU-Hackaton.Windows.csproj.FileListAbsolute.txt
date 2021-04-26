@@ -1,0 +1,87 @@
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\BFU-Hackaton.Windows.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MainPage.g.cs
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MarksPage.g.i.cs
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MarksPage.g.cs
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\App.xaml
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\App.xbf
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\App.xbf
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\MainPage.xbf
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\MarksPage.xbf
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\BFU-Hackaton.Windows.xr.xml
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\BFU-Hackaton.Windows.exe
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\BFU-Hackaton.Windows.pdb
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\resources.pri
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\AppxManifest.xml
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\BFU-Hackaton.Windows.build.appxrecipe
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MainPage.xaml
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MarksPage.xaml
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MainPage.xbf
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MarksPage.xbf
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\BFU-Hackaton.Windows.exe
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\BFU-Hackaton.Windows.pdb
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\BFU-Hackaton.Windows.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\priconfig.xml
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\layout.resfiles
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\resources.resfiles
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\pri.resfiles
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\qualifiers.txt
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\App.xbf
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\MainPage.xbf
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\MarksPage.xbf
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\BFU-Hackaton.Windows.xr.xml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\BFU-Hackaton.Windows.exe
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\BFU-Hackaton.Windows.pdb
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\resources.pri
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\AppxManifest.xml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\BFU-Hackaton.Windows.build.appxrecipe
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\BFU-Hackaton.Windows.csprojResolveAssemblyReference.cache
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\App.g.i.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\App.g.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MainPage.g.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MarksPage.g.i.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MarksPage.g.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\App.xaml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MainPage.xaml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\App.xbf
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MainPage.xbf
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MarksPage.xaml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MarksPage.xbf
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\BFU-Hackaton.Windows.exe
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\BFU-Hackaton.Windows.pdb
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\BFU-Hackaton.Windows.csproj.GenerateResource.Cache
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\priconfig.xml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\layout.resfiles
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\resources.resfiles
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\pri.resfiles
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\qualifiers.txt
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\ExamsPage.xbf
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\ExamsPage.g.i.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\ExamsPage.g.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\ExamsPage.xaml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\ExamsPage.xbf

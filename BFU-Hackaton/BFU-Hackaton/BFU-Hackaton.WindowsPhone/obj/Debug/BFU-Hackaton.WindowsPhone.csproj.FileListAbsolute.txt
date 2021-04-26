@@ -1,0 +1,78 @@
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\App.xbf
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\MainPage.xbf
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\BFU-Hackaton.WindowsPhone.xr.xml
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\BFU-Hackaton.WindowsPhone.exe
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\BFU-Hackaton.WindowsPhone.pdb
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\resources.pri
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\BFU-Hackaton.WindowsPhone.build.appxrecipe
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\MainPage.g.i.cs
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\MainPage.g.cs
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\App.xaml
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\MainPage.xaml
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\App.xbf
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\MainPage.xbf
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\BFU-Hackaton.WindowsPhone.exe
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\BFU-Hackaton.WindowsPhone.pdb
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\priconfig.xml
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\layout.resfiles
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\resources.resfiles
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\pri.resfiles
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\qualifiers.txt
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\user\documents\visual studio 2013\Projects\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\App.xbf
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\MarksPage.xbf
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\BFU-Hackaton.WindowsPhone.xr.xml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\BFU-Hackaton.WindowsPhone.exe
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\BFU-Hackaton.WindowsPhone.pdb
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\resources.pri
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\BFU-Hackaton.WindowsPhone.build.appxrecipe
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\BFU-Hackaton.WindowsPhone.csprojResolveAssemblyReference.cache
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\MarksPage.g.i.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\MarksPage.g.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\App.xaml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\App.xbf
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\MarksPage.xaml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\MarksPage.xbf
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\BFU-Hackaton.WindowsPhone.exe
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\BFU-Hackaton.WindowsPhone.pdb
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\BFU-Hackaton.WindowsPhone.csproj.GenerateResource.Cache
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\bin\Debug\ExamsPage.xbf
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\ExamsPage.g.i.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\ExamsPage.g.cs
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\ExamsPage.xaml
+C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.WindowsPhone\obj\Debug\ExamsPage.xbf

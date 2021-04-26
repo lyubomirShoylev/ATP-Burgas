@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAB029PC04</Machine>
+    <WindowsUser>fiber</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6c197d01-7401-4290-ae36-cf22e493cb6e</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>79F132A47024C4FD11AB09E4408E9A2418EBD92EC6ED2072D79A7AFFB9DDBEFB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6c197d01-7401-4290-ae36-cf22e493cb6e_1.0.0.0_neutral__4sdaedqydyjdm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6c197d01-7401-4290-ae36-cf22e493cb6e_4sdaedqydyjdm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6c197d01-7401-4290-ae36-cf22e493cb6e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=User</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-30T10:05:47.041</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\BFU-Hackaton.Windows.exe">
+      <PackagePath>BFU-Hackaton.Windows.exe</PackagePath>
+      <Modified>2015-05-30T10:48:41.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fiber\Desktop\BFU-Hackaton\packages\Newtonsoft.Json.6.0.8\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-05-29T18:48:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\Assets\BFU-logo.png">
+      <PackagePath>Assets\BFU-logo.png</PackagePath>
+      <Modified>2015-05-30T08:44:56.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-29T19:51:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\ExamsPage.xbf">
+      <PackagePath>ExamsPage.xbf</PackagePath>
+      <Modified>2015-05-30T10:05:46.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-30T10:48:41.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\MarksPage.xbf">
+      <PackagePath>MarksPage.xbf</PackagePath>
+      <Modified>2015-05-30T10:48:41.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\BFU-Hackaton.Windows.xr.xml">
+      <PackagePath>BFU-Hackaton.Windows.xr.xml</PackagePath>
+      <Modified>2015-05-30T10:48:41.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\fiber\Desktop\BFU-Hackaton\BFU-Hackaton\BFU-Hackaton.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-30T10:05:46.925</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
